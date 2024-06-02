@@ -93,7 +93,7 @@ In the bottom box labelled “Console” it is possible to select the line right
 
 **_Singleplayer mode_** will be activated if the number of players specified is exactly one, while **_multiplayer_** mode will be activated if the number of players specified is greater than one.
 
-Note that in **_multiplayer _**mode, the current player's turn will be indicated in the “Console.”
+Note that in **_multiplayer_** mode, the current player's turn will be indicated in the “Console.”
 
 **How to Move/Interact:**
 
