@@ -149,3 +149,7 @@ See the image below for additional guidance:
 _Solution:_
 
 This is most likely caused by inputting a negative number of players on game startup. Follow the solution provided in **Problem 2**, to restart the game without having to restart Ripes again. 
+
+<h1>Additional Notes</h1>
+
+This was written using the RISC-V instruction set architecture.
