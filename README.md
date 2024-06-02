@@ -42,7 +42,7 @@ Select the “Single-cycle processor” under the “RISC-V 32-bit” modules, t
 
 ![alt_text](images/image4.png "image_tooltip")
 
-Now select the “Source file” button and paste the location of the “starter.s” file, and press “OK.” Alternatively, the “starter.s” file may also be selected using the “Open…” button.
+Now select the “Source file” button and paste the location of the “sokoban.s” file, and press “OK.” Alternatively, the “sokoban.s” file may also be selected using the “Open…” button.
 
 6. On the left-sidebar click on the “I/O” button. The following screen should pop-up:
 
